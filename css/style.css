@@ -1,0 +1,59 @@
+.menu {
+	background-color:#004085;
+}
+.center{
+	text-align: center;
+}
+.profile{
+
+	width: 320px;
+	height: 320px;
+	border-radius: 50%;
+	border: 8px double #268594;
+}
+.nome-dev{
+	font-family: 'Orbitron', cursive;
+	font-size: 48px;
+}
+.descricao-dev{
+	font-size: 18pt;
+	text-align: center;
+	color: #02121f;
+	font-family: 'Orbitron', cursive;	
+}
+.sobre-dev{
+	font-size: 14pt;
+	text-align: center;
+	color: #2793e6;
+	font-family: 'Orbitron', cursive;
+
+}
+
+.home {
+	background-image: url('../images/bg2.jpg');
+	background-size: cover;
+}
+.title{
+	font-weight: bold;
+}
+.footer {
+	border-top: 1px solid #ccc ;
+	padding-top: 6px;
+}
+#contato{
+	background-color: #babcbd;
+	padding: 1rem;
+}
+.dev{
+
+	font-weight: lighter;
+	font-style: italic;
+}
+.conheca-me{
+color: #007bff;
+background-color: #fff;
+}
+.conheca-me:hover{
+	border: 0px;
+	box-shadow: 5px 6px 8px #333;
+}
